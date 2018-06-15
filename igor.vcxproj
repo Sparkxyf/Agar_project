@@ -150,15 +150,21 @@ xcopy "$(ProjectDir)..\Resources" "$(OutDir)" /D /E /I /F /Y
     </PreLinkEvent>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="..\Classes\AppDelegate.cpp" />
-    <ClCompile Include="..\Classes\MainMenu.cpp" />
-    <ClCompile Include="..\Classes\Start.cpp" />
+    <ClCompile Include="..\Classes\Ball\Ball.cpp" />
+    <ClCompile Include="..\Classes\Ball\Prick.cpp" />
+    <ClCompile Include="..\Classes\Ball\Spore.cpp" />
+    <ClCompile Include="..\Classes\Scene\AppDelegate.cpp" />
+    <ClCompile Include="..\Classes\Scene\MainMenu.cpp" />
+    <ClCompile Include="..\Classes\Scene\Start.cpp" />
     <ClCompile Include="main.cpp" />
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="..\Classes\AppDelegate.h" />
-    <ClInclude Include="..\Classes\MainMenu.h" />
-    <ClInclude Include="..\Classes\Start.h" />
+    <ClInclude Include="..\Classes\Ball\Ball.h" />
+    <ClInclude Include="..\Classes\Ball\Prick.h" />
+    <ClInclude Include="..\Classes\Ball\Spore.h" />
+    <ClInclude Include="..\Classes\Scene\AppDelegate.h" />
+    <ClInclude Include="..\Classes\Scene\MainMenu.h" />
+    <ClInclude Include="..\Classes\Scene\Start.h" />
     <ClInclude Include="main.h" />
   </ItemGroup>
   <ItemGroup>

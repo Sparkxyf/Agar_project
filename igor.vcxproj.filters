@@ -10,33 +10,54 @@
     <Filter Include="src">
       <UniqueIdentifier>{bb6c862e-70e9-49d9-81b7-3829a6f50471}</UniqueIdentifier>
     </Filter>
+    <Filter Include="src\ball">
+      <UniqueIdentifier>{f68f1e39-d37f-400f-aaff-f255b6ce0383}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="main.cpp">
       <Filter>win32</Filter>
     </ClCompile>
-    <ClCompile Include="..\Classes\AppDelegate.cpp">
+    <ClCompile Include="..\Classes\Scene\AppDelegate.cpp">
       <Filter>src</Filter>
     </ClCompile>
-    <ClCompile Include="..\Classes\Start.cpp">
+    <ClCompile Include="..\Classes\Scene\MainMenu.cpp">
       <Filter>src</Filter>
     </ClCompile>
-    <ClCompile Include="..\Classes\MainMenu.cpp">
+    <ClCompile Include="..\Classes\Scene\Start.cpp">
       <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\Ball\Ball.cpp">
+      <Filter>src\ball</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\Ball\Prick.cpp">
+      <Filter>src\ball</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\Ball\Spore.cpp">
+      <Filter>src\ball</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="main.h">
       <Filter>win32</Filter>
     </ClInclude>
-    <ClInclude Include="..\Classes\AppDelegate.h">
+    <ClInclude Include="..\Classes\Scene\AppDelegate.h">
       <Filter>src</Filter>
     </ClInclude>
-    <ClInclude Include="..\Classes\Start.h">
+    <ClInclude Include="..\Classes\Scene\MainMenu.h">
       <Filter>src</Filter>
     </ClInclude>
-    <ClInclude Include="..\Classes\MainMenu.h">
+    <ClInclude Include="..\Classes\Scene\Start.h">
       <Filter>src</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\Ball\Ball.h">
+      <Filter>src\ball</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\Ball\Prick.h">
+      <Filter>src\ball</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\Ball\Spore.h">
+      <Filter>src\ball</Filter>
     </ClInclude>
   </ItemGroup>
   <ItemGroup>
