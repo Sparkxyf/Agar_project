@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" tiledversion="2018.06.01" orientation="orthogonal" renderorder="right-down" width="80" height="80" tilewidth="128" tileheight="128" infinite="0" nextlayerid="2" nextobjectid="1">
+ <tileset firstgid="1" source="SpaceBG.tsx"/>
+ <layer id="1" name="块层 1" width="80" height="80">
+  <data encoding="base64" compression="zlib">
+   eJzt1lk3VgEARuHvk4RmQ7MiKYk0aUQlpEFFhdCgokwVjT+/vc6v2O9a5+K53Pe7WqlUarADtdiJOuxCPRrQiN3Yg73Yh/2olm3lAA6iCc1oQSsO4TCO4CiO4ThOoA0ny7ZoT6EdHTiNTpxBF87iHLpxHj24gF70lW3RXkQ/LuEyruAqrmEA13EDN3ELt3EHg2VbtEMYxl3cw32M4AFGMYZxPMQEHuExnpRt0T7FJJ7hOV5gCtN4iVd4jRnMYg5vMF+2RbuARbzFO7zHByzhIz7hM5axgi/4itWyLdo1rGMDm/iG7/iBLWzjJ37hN/7gL/6VbdGaXiqxNb1UYmt6qcTW9FKJremlElvTSyW2ppdKbE0vldiaXiqxNb1UYmt6qcTW9FKJremlElvTSyW2ppdKbE0vldiaXiqxNb1UYmt6qcTW9FKJremlElvTSyW2ppdKbE0vldiaXiqxNb1UYmt6qcTW9FKJremlElvTSyW2ppdKbE0vldiaXiqxNb1UYmt6qcTW9FKJremlElvTSyW2ppdKbE0vldiaXiqxNb1UYmt6qcTW9FKJremlElvTSyW2ppdKbE0vldiaXiqxNb1UYmt6qcTW9FKJremlElvTSyW2ppdKbE0vldiaXiqxNb1UYmt6qcTW9FKJremlElvTSyW2ppdKbE0vldiaXiqxNb1UYmt6qcTW9FKJremlElvTSyW2ppdKbE0vldj+B/BR4Pw=
+  </data>
+ </layer>
+</map>
